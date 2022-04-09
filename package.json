@@ -1,0 +1,16 @@
+{
+  "name": "vonage-sms-voice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.11",
+    "config": "^3.3.7",
+    "csv-parser": "^3.0.0"
+  }
+}

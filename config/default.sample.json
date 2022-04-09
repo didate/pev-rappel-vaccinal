@@ -1,0 +1,6 @@
+{
+  "apiKey": "test",
+  "apiSecret": "test",
+  "applicationId": "test",
+  "privateKey": "path to private key"
+}
