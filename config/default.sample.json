@@ -4,5 +4,6 @@
   "applicationId": "test",
   "privateKey": "path to private key",
   "dhis2Url": "https://the_url_of_dhis2",
-  "token" : ""
+  "token" : "",
+  "period" : ""
 }
